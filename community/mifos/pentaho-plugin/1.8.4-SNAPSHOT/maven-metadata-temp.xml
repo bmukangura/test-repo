@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>community.mifos</groupId>
+  <artifactId>pentaho-plugin</artifactId>
+  <version>1.8.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20230328.073717</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20230328074211</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.8.4-20230328.073717-2</value>
+        <updated>20230328073717</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.8.4-20230328.073717-2</value>
+        <updated>20230328073717</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
